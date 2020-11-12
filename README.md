@@ -1,0 +1,1 @@
+# mac-qtcreator-tins-pro
